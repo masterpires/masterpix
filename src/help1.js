@@ -2,7 +2,7 @@ const help1 = (prefix) => {
 
 	return `
 ╭──────────────╮
- *COMANDOS DO ZEUS*
+ *COMANDOS  PIRES*
 ╰──────────────╯
  
 ➸ *${prefix}marcar*
@@ -35,7 +35,7 @@ const help1 = (prefix) => {
 ➸ *${prefix}ts (texto que deseja transmitir)*
 
 ════════════════════
-*ZEUS YT* 🤗
+*.PIRES* 🤗
 *Digite ${prefix}dono para mais info*
 ════════════════════`
 

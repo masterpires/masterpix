@@ -2,7 +2,7 @@ const help = (prefix) => {
 	return `
 
 ╔════════════════════
-║        🌹𝐙𝐄𝐔𝐒 𝐁𝐎𝐓 🌹
+║        🌹PIRES🌹
 ╠════════════════════
 
 
@@ -108,9 +108,10 @@ const help = (prefix) => {
     
 
 ╔════════════════════
-  FEITO POR *ZEUS*
+  FEITO POR *PIRES*
   DUVIDAS? 👇
-  WA.me/556993899391
+  http://WA.me/+447451217436
+https://chat.whatsapp.com/FhWvoKEIA2sL0AQUv0xrU0
 ╚════════════════════`
 }
 

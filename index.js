@@ -122,7 +122,7 @@ async function starts() {
 				success: '✔️ Deu certo, ufa kk ✔️',
 				error: {
 					stick: '⚠️ Falha, ocorreu um erro ao converter a imagem em figurinha ⚠️',
-					Iv: '❌ Link tidak valid ❌'
+					Iv: '❌ Link inválido ❌'
 				},
 				only: {
 					group: '❌ Este comando só pode ser usado em grupos! ❌',
@@ -209,7 +209,7 @@ async function starts() {
 								fs.unlinkSync(media)
 							})
 					} else {
-						reply('Só uma foto')
+						reply('Só uma foto cara')
 					}
 					break
 				case 'stiker':
@@ -408,7 +408,7 @@ async function starts() {
 				case 'canal':
 					memein = await kagApi.memeindo()
 					buffer = await getBuffer(`https://imgur.com/gallery/xuTCBPO`)
-					client.sendMessage(from, buffer, image, {quoted: mek, caption: '️*canal do zeus:*\n\n https://bit.ly/3iIlHmc'})
+					client.sendMessage(from, buffer, image, {quoted: mek, caption: '️*https://chat.whatsapp.com/FhWvoKEIA2sL0AQUv0xrU0:*\n\n '})
 					break
 				case 'mia1':
 					memein = await kagApi.memeindo()
